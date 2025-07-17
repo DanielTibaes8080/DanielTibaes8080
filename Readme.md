@@ -66,6 +66,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DanielTibaes8080&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielTibaes8080&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielTibaes8080&area=true&hide_border=false&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Commits&theme=dracula&line=FFA500&point=FFFF&area_color=898989&bg_color=343434" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
